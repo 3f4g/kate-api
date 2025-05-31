@@ -7,7 +7,16 @@ type Project = {
   shortDescription: string;
   previewImage: string;
   fullDescription: string;
-  images: string[];
+  primaryImages: string[];
+  secondaryImages: string[];
+};
+
+type TExibition = {
+  id: string;
+  title: string;
+  description: string;
+  image: string;
+  link?: string;
 };
 
 const projects: Project[] = projectsData;
@@ -15,21 +24,16 @@ const projects: Project[] = projectsData;
 const router = Router();
 
 router.get("/", (req: Request, res: Response) => {
-  const brief = projects.map(({ id, title, shortDescription, previewImage }) => ({
-    id,
-    title,
-    shortDescription,
-    previewImage,
-  }));
-  res.json(brief);
+  res.json(projects);
 });
 
-//@ts-expect-error
+//@ts-ignore
 router.get("/:id", (req: Request<{ id: string }>, res: Response) => {
   const project = projects.find((p) => p.id === req.params.id);
   if (!project) {
     return res.status(404).json({ message: "Проект не найден" });
   }
+
   res.json(project);
 });
 
