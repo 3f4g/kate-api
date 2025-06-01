@@ -1,59 +1,115 @@
 [
   {
     "id": "1",
-    "title": "Проект 1",
-    "shortDescription": "Краткое описание проекта 1",
-    "previewImage": "/images/1.jpg",
-    "fullDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-    "primaryImages": [
-      "/images/1.jpg"
+    "title": "Ceramic Apeture",
+    "shortDescription": "feb 2025",
+    "previewImage": "/images/IMG_5925_prew.JPG",
+    "fullDescription": [
+      "In this project, I explored how materials can be used to display or record time. I was curious to see if ceramics could be used to create a camera. The idea behind this project is to create a ceramic sphere that acts as a camera obscura. The image will be displayed on the inner wall, which is impregnated with photo emulsion. A person will be able to see what image they get by breaking the ceramic sphere."
     ],
-    "secondaryImages": [
-      "/images/1.jpg",
-      "/images/2.jpg",
-      "/images/3.jpg",
-      "/images/4.jpg",
-      "/images/5.jpg",
-      "/images/7.jpg"
-    ]
+    "primaryImages": [
+      "/images/IMG_5925.JPG",
+      "/images/IMG_5922.JPG",
+      "/images/IMG_5923.JPG",
+      "/images/IMG_5924.JPG"
+    ],
+    "vertical": [],
+    "secondaryImages": [],
+    "last": []
   },
   {
     "id": "2",
-    "title": "Проект 2",
-    "shortDescription": "Краткое описание проекта 2",
-    "previewImage": "/images/1.jpg",
-    "fullDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-    "primaryImages": [
-      "/images/1.jpg",
-      "/images/2.jpg"
+    "title": "Time",
+    "shortDescription": "oct 2024",
+    "previewImage": "/images/IMG_5911_prew.JPG",
+    "fullDescription": [
+      "It is an performance installation, the essence of which is to show the passage of time. The terracotta allows water to pass through it. A thin enough water reservoir allows a drop of water to concentrate on the surface and drip. With its curved shape, the drop falls onto the terracotta and is absorbed over time without leaving a puddle.",
+      "Observing nature's processes helps to calm you down. The circles of dripping water create a meditative environment and the minimalist design does not distract from the viewing. This project also promotes the idea that time is subjective for everyone and that it passes at different speeds at different times."
     ],
-    "secondaryImages": [
-      "/images/1.jpg",
-      "/images/2.jpg",
-      "/images/3.jpg",
-      "/images/4.jpg",
-      "/images/5.jpg",
-      "/images/7.jpg"
-    ]
+    "primaryImages": ["/images/IMG_5911.JPG", "/images/IMG_5912.JPG"],
+    "vertical": [],
+    "secondaryImages": [],
+    "last": []
   },
   {
     "id": "3",
-    "title": "Проект 3",
-    "shortDescription": "Краткое описание проекта 3",
-    "previewImage": "/images/1.jpg",
-    "fullDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-    "primaryImages": [
-      "/images/1.jpg",
-      "/images/2.jpg",
-      "/images/3.jpg"
+    "title": "Along the Gardens Paths",
+    "shortDescription": "may 2024",
+    "previewImage": "/images/IMG_5916.JPG",
+    "fullDescription": [
+      "This project was about Charterhouse, a place where single people over 60 can find a home. As well as the huge history of the place, it has gardens that bloom all year round. I decided to create a vase that would create a garden feel and not distract the viewer from enjoying the local flowers. At the same time, the wooden base for the vase is made in the shape of an old Charterhouse garden plan. To get a better look at the beauty of the flowers and to calm down, I placed a Fresnel lens in front of the vase. When you look through it at the plants, it feels like you're a bug. The change of perspective and the view helps to improve psychological well-being, which is very important for people in old age.",
+      "EXHIBITION",
+      "Things didn't go the way I thought at the exhibition. I expected people to sit down at the table to look at the flowers. But there wasn't a single person who did this, even though there were chairs. People also picked up the lens stand to change perspective and look at the flowers from above. If I had known people would do this, I would have made the stand out of flexible wire so it could be bent. Anyway, I heard a lot of positive comments from the older ladies. I enjoyed watching them immersed in looking at the flowers."
     ],
-    "secondaryImages": [
-      "/images/1.jpg",
-      "/images/2.jpg",
-      "/images/3.jpg",
-      "/images/4.jpg",
-      "/images/5.jpg",
-      "/images/7.jpg"
+    "primaryImages": ["/images/IMG_5914.JPG"],
+    "vertical": ["/images/IMG_5918.JPG", "/images/IMG_5919.JPG"],
+    "secondaryImages": [],
+    "last": [
+      "/images/IMG_5917.JPG",
+      "/images/IMG_5913.JPG",
+      "/images/IMG_5921.JPG"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Flame Vessel: Batch project",
+    "shortDescription": "oct 2023",
+    "previewImage": "/images/IMG_5929_prew.JPG",
+    "fullDescription": [
+      "The aim of this project was to create a series of objects for sale. The concept behind these candle holders is that people can build up a collection of lamps that can be stacked on top of each other to create unique patterns to suit any mood. The transparency of the porcelain was intended to highlight the engraving inside."
+    ],
+    "primaryImages": [
+      "/images/IMG_5929.JPG",
+      "/images/IMG_5928.JPG",
+      "/images/IMG_5926.JPG"
+    ],
+    "vertical": [],
+    "secondaryImages": [],
+    "last": []
+  },
+  {
+    "id": "5",
+    "title": "Textile Dialogues",
+    "shortDescription": "may 2023",
+    "previewImage": "/images/IMG_5903_prew.JPG",
+    "fullDescription": [
+      "Kimono is a form of communication. It serves as a canvas to represent the owner's taste, mood, social status, season and circumstances. The project started with a 10 metre roll of canvas. The aim was to explore people's ability to interact with each other and show the connection through an unusual object.",
+      "It was May and as a starting point I asked my friends to explore the possible ways of interaction. The first thing the girls wanted to do was to cut a piece of canvas lengthwise to make it easier to hold.",
+      "We decided to conduct the research in different locations. it was exciting to see the girls running around in nature, behaving relaxed and experimenting a lot in a large field. In the city, on the other hand, the friends adapted to the environment by going around trees, folding fabric and wrapping it around poles. there was less space, but at the same time these conditions encouraged other ways of interacting",
+      "Next step was to let go of control and go out into the park asking strangers to do whatever they wanted with this canvas. I was genuinely surprised by the openness of the people and their way of communicating. mostly there were young people on holiday. They started playing with the cloth, using it as a jump rope, wrapped themselves in the cloth. But someone took it more seriously and told me interesting facts about fabric from their culture. This experiment made me realise that when creating projects, it is very useful to ask independent people for their opinions. In the process of this experiment, the idea of creating a kimono that can only be worn by two people was born. The kimono consists of a dressing gown and a belt. It could be used to learn a lot about a person, so I literally decided to use it as a tool to visualise human connection.",
+      "At the end of the project, the canvas was no longer perfectly clean. It has grass marks, earth marks and tarmac stripes on it. This experiment gave it history and love. Just like the most beloved children's toys quickly start to become non-ideal, but mean a lot to the owner."
+    ],
+    "primaryImages": ["/images/IMG_5903.JPG", "/images/IMG_5907.JPG"],
+    "vertical": [],
+    "secondaryImages": ["/images/IMG_5904.JPG", "/images/IMG_5906.JPG"],
+    "last": [
+      "/images/IMG_5905.JPG",
+      "/images/IMG_5908.JPG",
+      "/images/IMG_5909.JPG"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Surreal Handtool",
+    "shortDescription": "nov 2022",
+    "previewImage": "/images/IMG_5900_prew.JPG",
+    "fullDescription": [
+      "The aim of this project was to look at an everyday object from a new perspective and give it a different meaning.",
+      "What does a comb look like?",
+      "A coral reef, a forest, the tufts of a carpet. It is an ordinary object that has existed for many years, which can lose meaning completely or gain the opposite meaning. If you say the same word many times, it will lose its meaning.",
+      "After studying different variations of combs for different needs, I tried to find a new reading of the object, as surrealists do.",
+      "Inspired by 100 Chairs in 100 Days :",
+      "The easiest way to figure out what to do is to start creating. My goal was to figure out what materials to use in the project through a lot of sampling.",
+      "After five combs, it was difficult to pick up materials and come up with something new. But I realised that this method helps to broaden my horizons. What interested me most was using organic objects and watching them evolve over time.",
+      "It was autumn and the plane trees were shedding their leaves. Recycling cuttings from leaves interested me the most. The ability to preserve and stop the decomposition of the leaf.",
+      "Many surrealists were inspired by nature I wanted to create a landscape of the environment in the form of an ordinary object."
+    ],
+    "primaryImages": ["/images/IMG_5900.JPG"],
+    "vertical": ["/images/IMG_5902.JPG"],
+    "secondaryImages": ["/images/IMG_5899.JPG"],
+    "last": [
+      "/images/IMG_5901.JPG",
+      "/images/IMG_5898.JPG"
     ]
   }
 ]

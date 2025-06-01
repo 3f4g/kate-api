@@ -6,9 +6,12 @@ type Project = {
   title: string;
   shortDescription: string;
   previewImage: string;
-  fullDescription: string;
+  fullDescription: string[];
+  // addittional: string;
   primaryImages: string[];
+  vertical: string[]
   secondaryImages: string[];
+  last: string[];
 };
 
 type TExibition = {
